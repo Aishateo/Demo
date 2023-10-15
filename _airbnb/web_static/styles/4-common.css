@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #484848;
+}
+h2 {
+  font-size: 16px;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+h1 {
+    font-size: 30px;
+}
+ul {
+  list-style: none;
+}
+.container {
+  max-width: 1000px;
+  margin: 30px auto;
+}

@@ -1,0 +1,1 @@
+# HBNB Console Documentation
